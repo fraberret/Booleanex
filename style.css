@@ -1,0 +1,106 @@
+body{
+
+background-image: url(Immagini/background.jpg);
+background-size: cover;
+
+}
+
+
+span,h2{
+
+
+font-family: 'Poppins', sans-serif;
+color: white;
+text-align: center;
+
+}
+
+
+.pagina{
+
+background-color: rgba(0, 0, 0, 0.5);
+width: 50%;
+margin: 30px auto;
+padding:100px 130px;
+border-radius: 20px;
+
+
+
+}
+
+.logo{
+
+width: 250px;
+margin: auto;
+display: block;
+
+
+
+}
+
+.sottologo{
+
+font-size: 30px;
+color: #15DD00;
+margin: auto;
+
+}
+
+.prenotazione{
+
+background-color: #15DD00;
+padding: 12px;
+text-align: center;
+
+
+}
+
+
+.mon{
+
+padding: 20px 0px;
+font-size: 25px;
+}
+
+
+.spec{
+
+font-size: 15px;
+
+}
+
+
+.carica{
+
+padding: 15px;
+border-radius: 5px;
+
+}
+
+
+.monopattini{
+
+margin: 20px auto;
+
+}
+
+
+.gino22{
+background-color: #F5B453;
+width: 300px;
+
+}
+
+.mike24{
+
+background-color: #1EC31E;
+width: 550px ;
+
+}
+
+
+.fede154{
+background-color: #BE4141;
+width: 115px;
+
+}
